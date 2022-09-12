@@ -7,7 +7,7 @@ div.google {
 
 div.head {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     float: right;
     align-items: center;
     padding-right: 50%;
