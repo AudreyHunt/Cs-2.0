@@ -1,11 +1,3 @@
 div.container {
-    image-rendering: "google photo";
-    flex: auto;
-    flex-direction: left;
-    flex: 50;
-}
-
-div.container {
-    flex-direction: right;
-    flex: auto;
+    flex-direction: column;
 }
