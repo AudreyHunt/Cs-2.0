@@ -1,6 +1,14 @@
-div.container {
+div.google {
     display: flex;
     flex-direction: row;
-    float: inline-start;
+    float: left;
     padding-left: 50%;
+}
+
+div.head {
+    display: flex;
+    flex-direction: row;
+    float: right;
+    align-items: center;
+    padding-right: 50%;
 }
