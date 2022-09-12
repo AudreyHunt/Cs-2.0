@@ -4,3 +4,8 @@ div.container {
     flex-direction: left;
     flex: 50;
 }
+
+div.container {
+    flex-direction: right;
+    flex: auto;
+}
