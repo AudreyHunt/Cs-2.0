@@ -1,5 +1,6 @@
 div.container {
     display: flex;
-    flex-direction: left;
-    justify-content: left;
+    flex-direction: row;
+    float: inline-start;
+    padding-left: 50%;
 }
