@@ -1,11 +1,6 @@
-.container {
-    margin: 150px auto;
-    width: 50%;
-    padding: 8px;
-}
-
-img {
-    float: left;
-    height: 700px;
-    width: 800px;
+div.container {
+    image-rendering: "google photo";
+    flex: auto;
+    flex-direction: left;
+    flex: 50;
 }
