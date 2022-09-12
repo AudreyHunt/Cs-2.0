@@ -3,3 +3,10 @@ div.googlephoto {
     flex-direction: left;
     justify-content: left;
 }
+
+div.head {
+    display: flex;
+    flex-direction: right;
+    justify-content: right;
+    align-items: center;
+}
